@@ -8,4 +8,4 @@ I'm a student at the University of Notre Dame studying Political Science and Dat
 - 📫 How to reach me: jmille96@nd.edu
 
 ## Interests
-- [Add a few of your interests or hobbies]
+- I like to DJ, play the drums, and go on cool backpacking trips!
