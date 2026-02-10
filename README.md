@@ -8,7 +8,7 @@ I am a May 2026 graduate of the University of Notre Dame with a background in da
 - 📫 You can reach me @ jmille96@nd.edu
 
 ## Interests
-- I like to DJ, play the drums, and go on backpacking trips!
+- I like to DJ (Tune into my radio show on WSND 88.9 FM @ 8PM EST! [Streaming Link](wsnd.nd.edu)), play the drums, and go on backpacking trips!
 
 ## My Project Portfolios:
 [Data Science Portfolio](https://github.com/millerjacobt/Miller-Data-Science-Portfolio)
