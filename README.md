@@ -9,7 +9,7 @@ I am a May 2026 graduate of the University of Notre Dame with a background in da
 
 ## Interests
 I like to...
-  - DJ (Tune into my weekly radio show on WSND 88.9 FM on Wednesdays 8PM EST - Either on the radio or [stream online](wsnd.nd.edu))
+  - DJ (Tune into my weekly radio show on WSND 88.9 FM @ Wednesdays 8PM EST - Either on the radio or [stream online](wsnd.nd.edu))
   - Play the drums (My band M.U.G. coming to local venues March 2026!)
   - Hike and Camp (Most recent trip - Big Bend, Guadalupe Mountains, and Carlesbad Caverns National Parks)
 
