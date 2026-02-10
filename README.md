@@ -5,7 +5,7 @@ I am a May 2026 graduate of the University of Notre Dame with a background in da
 ## About Me
 - 🎓 Being a McNeil Common Good Fellow through the Institute for Social Concerns, I am interested in pursuing data projects with a positive social impact.
 - 👨🏻‍💻 I am proficient in R, Stata, and Tableau. I am currently working to improve my proficiency in Python.
-- 📫 You can reach me @ jmille96@nd.edu
+- 📫 You can reach me @ jmille96@nd.edu or on my [Linkedin](https://www.linkedin.com/in/millerjacobt/)
 
 ## Interests
 I like to...
