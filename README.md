@@ -11,8 +11,13 @@ I am a May 2026 graduate of the University of Notre Dame with a background in da
 I like to...
   - DJ (Tune into my weekly radio show on WSND 88.9 FM @ Wednesdays 8PM EST - Either on the radio or [stream online](wsnd.nd.edu))
   - Play the drums (My band MUG just recorded an album, so be on the lookout for MUG on all streaming platforms in the next month or so! [Check us out!](https://www.instagram.com/mugtheband/)
-  - Hike and Camp (Most recent trip - Big Bend, Guadalupe Mountains, and Carlesbad Caverns National Parks)
+  - Hike and Camp (Most recent trip - Big Bend, Guadalupe Mountains, and Carlsbad Caverns National Parks)
 
 ## My Project Portfolios:
 [Data Science Portfolio](https://github.com/millerjacobt/Miller-Data-Science-Portfolio) - A portfolio I developed during my last semester at Notre Dame as a part of my Data Science Minor. It follows through my progression utilizing Python in different data science contexts.
 
+## Skills
+- **Languages:** Python, R, Stata, Spanish (Intermediate)
+- **Tools:** Streamlit, Pandas, scikit-learn, Tableau, Git
+- **Methods:** Supervised & Unsupervised Machine Learning, Longitudinal Data Construction, Data Cleaning & Integration, Descriptive Analysis, Data Visualization, Missing Data Diagnostics
+- **Statistical Modeling:** Logistic Regression, Multivariate Regression, Time-Series Regression, Hypothesis Testing
